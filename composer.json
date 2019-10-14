@@ -1,0 +1,8 @@
+{
+    "name": "leodrak26/testfiles-01",
+    "description": "Install this",
+    "type": "library",
+    "license": "MITPT",
+    "minimum-stability": "stable",
+    "require": {}
+}
